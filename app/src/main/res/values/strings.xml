@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Devfest_Clone</string>
+    <string name="scratch_tuned">Stay Tuned for goodies!!</string>
+    <string name="scratch_check_back">Check back here later to find a unique key from a Scratch Card and stand a chance to win exclusive goodies</string>
+    <string name="quiz">Sign in to access the quiz</string>
+    <string name="questions">Sign in to start asking and upvoting questions</string>
+    <string name="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_agenda"
+        android:icon="@drawable/baseline_calendar_today_white_18dp"
+        android:title="Agenda" />
+    <item
+        android:id="@+id/nav_scratch"
+        android:icon="@drawable/baseline_card_giftcard_white_18dp"
+        android:title="Scratch Card" />
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@drawable/baseline_wb_sunny_white_18dp"
+        android:title="Quiz" />
+    <item
+        android:id="@+id/nav_que"
+        android:icon="@drawable/baseline_add_comment_white_18dp"
+        android:title="Questions" />
+
+    <item
+    android:id="@+id/nav_sponser"
+    android:icon="@drawable/baseline_people_white_18dp"
+    android:title="Sponser" />
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/baseline_info_white_18dp"
+        android:title="About" />
+
+</menu>
